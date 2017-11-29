@@ -6,10 +6,10 @@
 
   <groupId>cx.lehmann.vertx</groupId>
   <artifactId>vertx-proxy-example</artifactId>
-  <version>3.3.3</version>
+  <version>3.5.0</version>
 
   <properties>
-    <vertx.version>3.3.3</vertx.version>
+    <vertx.version>3.5.0</vertx.version>
   </properties>
 
   <dependencies>
