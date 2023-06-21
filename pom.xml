@@ -9,7 +9,7 @@
   <version>3.5.0</version>
 
   <properties>
-    <vertx.version>3.5.0</vertx.version>
+    <vertx.version>4.2.3</vertx.version>
   </properties>
 
   <dependencies>
